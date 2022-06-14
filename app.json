@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ezflashcard",
+    "slug": "ezflashcard",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
